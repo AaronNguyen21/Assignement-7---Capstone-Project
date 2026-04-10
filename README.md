@@ -18,7 +18,7 @@ the Hugging Face Hub.
 quantization to fit within the 16GB T4 VRAM.
 4. Establish Tunnel: The script executes ngrok.connect(8501), which creates a
 secure, high-bandwidth gateway and provides a public URL (e.g.,
-.https://your-unique-id.ngrok-free.app).
+https.://your-unique-id.ngrok-free.app).
 5. Once you open the URL wait for the model to download should take 7-10
 minutes
 User Interaction:
